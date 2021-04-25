@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on ... not quite sure, but probably anything soon.
 - 📫 How to reach me: 
     https://www.reddit.com/user/Pacciulli/
-    linkedin.com/in/caue-meyer-19379623
+    https://linkedin.com/in/caue-meyer-19379623
 
 <!---
 pacciulli/pacciulli is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
