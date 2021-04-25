@@ -2,7 +2,9 @@
 - 👀 I’m interested in AI, Machine Learning and Deep Learning (mainly)
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on ... not quite sure, but probably anything soon.
-- 📫 How to reach me ...
+- 📫 How to reach me: 
+    https://www.reddit.com/user/Pacciulli/
+    linkedin.com/in/caue-meyer-19379623
 
 <!---
 pacciulli/pacciulli is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
